@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Logo.png" width="256" height="256">
+    <img src="SpotifydownWrapper.png" width="256" height="256">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/.NET%20Framework-4.7.2-blue">
